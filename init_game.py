@@ -1,3 +1,8 @@
+"""
+This module initializes the Pygame library, sets up the game window,
+and starts the main game loop for the Sisters Quest game.
+"""
+
 # Dependencies
 import pygame
 import sys
