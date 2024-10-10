@@ -26,6 +26,9 @@ def init_game():
     # Set up a clock to control frame rate
     clock = pygame.time.Clock()
 
+    # Game loop flag
+    run = True
+
     # Game loop
     while run:
         # Event handling
