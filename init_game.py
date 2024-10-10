@@ -47,4 +47,4 @@ def init_game():
 
     # Clean up and close game
     pygame.quit()
-    sys.quit()
+    sys.exit()
